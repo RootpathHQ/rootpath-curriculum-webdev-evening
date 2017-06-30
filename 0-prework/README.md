@@ -16,7 +16,7 @@ You should complete the following pre-work:
 6. Sign up for [Pocket](#pocket)
 7. Complete the [Markdown](#markdown) tutorials.
 8. Complete the [Command Line](#the-command-line) tutorial.
-9. Complete the [HTML & CSS](#html-css) tutorials.
+9. Complete the [HTML & CSS](#html--css) tutorials.
 
 
 ***
