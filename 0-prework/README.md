@@ -57,7 +57,7 @@ This document provides a few starting points, but it's important that you learn 
 
 Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors whose articles you've enjoyed, and build your list up by looking at the people they follow.
 
-Feel free to share any good articles or videos you find with [@spartaglobal](http://twitter.com/rootpathHQ)!
+Feel free to share any good articles or videos you find with [@rootpathHQ](http://twitter.com/rootpathHQ)!
 
 #### Pocket
 
