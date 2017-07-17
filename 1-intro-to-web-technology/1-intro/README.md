@@ -103,7 +103,14 @@ Key points to dicuss:
 * Independance
 * Responsibility
 
-Top Tips:
+Rootpath Values:
+
+* Excellent
+* Positive
+* Open
+* Bold
+
+**Top Tips**:
 
 * Have a todo list, and every time I ask you to do something, add to the list.
 * Read **EVERYTHING** you can.
@@ -112,6 +119,8 @@ Top Tips:
    * The next day
    * Right before the next session
 * Schedule time blocks in your calendar for working on exercises and projects.
+
+It's important that you keep a good track of your notes and resources. There's a lot of information to take in, and because we have limted contact time, I can't help you keep stuff in order.
 
 [This big list](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) is a great resource for people learning to code, and there are some other resources at the end of this lesson. Remember, it's **totally cool** to google for stuff. We all do it every day.
 
@@ -215,7 +224,9 @@ Next, we need to open Atom's preferences and set the theme and Syntax theme, as 
 * Where to find keyboard shortcuts.
 * How to change the language of a file.
 
-### FloodBits
+### FlooBits
+
+Use Screenhero to work through the following...
 
 1. Sign up online.
 2. Install the Atom plugin.
@@ -228,6 +239,25 @@ Create a workspace and test it out - initially from a browser, then from within 
 
 ## Summary
 
+In this lesson, we have:
+
+* Discussed:
+    * Lesson structure
+    * Course structure
+* Learned how to use:
+    * Zoom
+    * Medium
+    * Pocket
+    * Github
+    * Slack
+* Configured:
+    * ScreenHero
+    * Homebrew
+    * Rbenv & Ruby
+    * Node.js
+    * The Terminal
+    * Atom
+    * Floobits
 
 
 ***
@@ -246,6 +276,7 @@ Create a workspace and test it out - initially from a browser, then from within 
 * Make sure your avatars/bios are the same on Medium, Twitter, Rootpath Slack, Github etc. Explain that you're learning to code in tour bio, and pick a decent picture.
 * Follow some good people on Twitter and medium.
 * Sign up for a StackOverflow account.
+* Add any plugins to Atom that you think might be useful (don't overdoo it!)
 * Set up a LinkedIn profile.
 * Work out how you're going to make, keep and review your notes.
 * Set up a Todo list of some sort. Wunderlist is a good choice, but use any method you want.
